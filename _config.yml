@@ -15,6 +15,7 @@ url: "https://agung.xyz" # the base hostname & protocol for your site
 enforce_ssl: agung.xyz
 #twitter_username: jekyllrb
 #github_username:  jekyll
+permalink: ":year:month:day/:title"
 
 # Build settings
 markdown: kramdown

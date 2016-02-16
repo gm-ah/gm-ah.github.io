@@ -7,7 +7,7 @@
 
 # Site settings
 title: Agung.xyz
-email: goahead@spam4.me
+email: hello@agung.xyz
 description: > # this means to ignore newlines until "baseurl:"
   The site of ...
 baseurl: "" # the subpath of your site, e.g. /blog

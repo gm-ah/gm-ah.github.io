@@ -1,27 +1,15 @@
 ---
 layout: post
-title:  "Eclipse 2016"
+title:  "Total Solar Eclipse 2016"
 date:   2016-02-20 08:20:06 +0700
 categories: rant
 ---
 <img src="/img/eclipse2016.png" alt="Eclipse Map" style="width:100%" />
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+IIRC, I only got one total solar eclipse experience when I was very young. The government did a very good job educating citizen  not to be afraid but in the same time also be very cautious as it would gave an eye health problem. That was including social advertising and the one I still remember was in "Si Unyil" series, telling stories of traditional folk tale about solar eclipse with Buto Ijo character eating the sun.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Scientist (austronomers) has told us that this year, Indonesia will have a total solar eclipse happened in March 9. Some of the cities (maps above) will have 1-3 min darkness during daytime.
 
-Jekyll also offers powerful support for code snippets:
+I'm tempted to go up north, nearest place to get the exprience, to Palembang or Bangka.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Will I? Don't know yet
